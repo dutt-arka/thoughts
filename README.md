@@ -2,7 +2,7 @@
 
 This is my informal blog on github pages,where I scribble down my thoughts,ideas and occasional notes w
 
-### Markdown
+### Posts
 
 This repository (will eventually) contain hosts of code,links and documents related to my personal learning in RL and ML.
 
@@ -12,7 +12,7 @@ For the time being, here's a list of wonderful sources of resources for RL.
 
 *A huge list of resources for R/L and Q-LEARNING.* (Will update more later lol)
 
-0 (https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/)
+0 https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/
 
 [1] (https://blog.floydhub.com/an-introduction-to-q-learning-reinforcement-learning/amp/)
 
