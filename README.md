@@ -12,7 +12,7 @@ For the time being, here's a list of wonderful sources of resources for RL.
 
 *A huge list of resources for R/L and Q-LEARNING.* (Will update more later lol)
 
-[0] (https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/)
+0 (https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/)
 
 [1] (https://blog.floydhub.com/an-introduction-to-q-learning-reinforcement-learning/amp/)
 
