@@ -1,7 +1,7 @@
 {% include jaf.html %}
 ## Welcome my scribblings.
 
-This is my informal blog on github pages,where I scribble down my thoughts,ideas and occasional notes w
+This is my informal blog on github pages,where I scribble down my thoughts,ideas and occasional notes 
 
 ### Posts
 
