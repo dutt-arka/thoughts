@@ -55,9 +55,19 @@ For the time being, here's a list of wonderful sources of resources for RL.
 
 [20] [Learn Q Laerning with OpenAI gym and Python](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/)
 
+--------------------------------------------------
+# Update Apr '20:
 
+Some links which I have curated over the last couple of months,and I'm doing a copypasta here:
+1. https://nicholastsmith.wordpress.com/2016/04/20/stock-market-prediction-using-multi-layer-perceptrons-with-tensorflow/
+2. ML-Project based learning : https://machinelearningmastery.com/start-here/#python
+                               https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+3. Suraj Rival (the LOLs) video : https://www.youtube.com/watch?v=T5pRlIbr6gg
+4. Dump of ton of projects (to-do) : https://github.com/feruxhi/project-based-learning 
+# 5. Business Analytics 
+https://github.com/feruxhi/Business-Analytics
 
-
+----------------------------------------------------
 ### Contact
 
 want to get in touch with me? There's an easy way..just e-mail me @ physicsonnet.ind@gmail.com,and don't forget to include * gabriel *
