@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Arka"
-  avatar : "/assets/images/v-x.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Making data personal again!"
   links:
     - label: "Website"
